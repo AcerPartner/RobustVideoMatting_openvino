@@ -17,6 +17,10 @@ omz_converter --name robust-video-matting-mobilenetv3 --precisions FP16
 pip install openvino==2025.3
 python .\reshape_ov.py
 ```
+## Notice
+Based on RobustVideoMatting
+Modified by JoelanHsiehAcer
+Date: 2026-03-06
 
 ## Legal Information
 

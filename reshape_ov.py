@@ -1,5 +1,8 @@
-#Realse under GPL-3.0 license
-#Date 2026/02/26
+# Copyright (C) 2026 Acer Corporation
+# Licensed under the GNU General Public License v3.0
+# Modified by JoelanHsiehAcer
+# Date: 2026-03-06
+
 from openvino.runtime.passes import Manager, MakeStateful
 import openvino as ov
 
