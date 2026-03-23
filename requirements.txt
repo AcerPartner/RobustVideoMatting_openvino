@@ -1,0 +1,5 @@
+nncf
+torch
+torchvision
+openvino==2025.3
+opencv-python
